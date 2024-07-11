@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\assign1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33D41150-7262-4D2E-8EFD-976CB9384F1E}|assign1.csproj|C:\\Users\\user\\source\\repos\\assign1\\controllers\\part2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D41150-7262-4D2E-8EFD-976CB9384F1E}|assign1.csproj|solutionrelative:controllers\\part2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|assign1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D41150-7262-4D2E-8EFD-976CB9384F1E}|assign1.csproj|C:\\Users\\user\\source\\repos\\assign1\\controllers\\part6controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D41150-7262-4D2E-8EFD-976CB9384F1E}|assign1.csproj|solutionrelative:controllers\\part6controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D41150-7262-4D2E-8EFD-976CB9384F1E}|assign1.csproj|C:\\Users\\user\\source\\repos\\assign1\\controllers\\part5controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D41150-7262-4D2E-8EFD-976CB9384F1E}|assign1.csproj|solutionrelative:controllers\\part5controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D41150-7262-4D2E-8EFD-976CB9384F1E}|assign1.csproj|C:\\Users\\user\\source\\repos\\assign1\\controllers\\part4controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D41150-7262-4D2E-8EFD-976CB9384F1E}|assign1.csproj|solutionrelative:controllers\\part4controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D41150-7262-4D2E-8EFD-976CB9384F1E}|assign1.csproj|C:\\Users\\user\\source\\repos\\assign1\\controllers\\part3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D41150-7262-4D2E-8EFD-976CB9384F1E}|assign1.csproj|solutionrelative:controllers\\part3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D41150-7262-4D2E-8EFD-976CB9384F1E}|assign1.csproj|C:\\Users\\user\\source\\repos\\assign1\\controllers\\part1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D41150-7262-4D2E-8EFD-976CB9384F1E}|assign1.csproj|solutionrelative:controllers\\part1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D41150-7262-4D2E-8EFD-976CB9384F1E}|assign1.csproj|c:\\users\\user\\source\\repos\\assign1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "assign1",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\assign1\\assign1.csproj",
+              "RelativeDocumentMoniker": "assign1.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\assign1\\assign1.csproj",
+              "RelativeToolTip": "assign1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-13T22:32:58.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "part6Controller.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\assign1\\Controllers\\part6Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\part6Controller.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\assign1\\Controllers\\part6Controller.cs",
+              "RelativeToolTip": "Controllers\\part6Controller.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:31:28.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "part5Controller.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\assign1\\Controllers\\part5Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\part5Controller.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\assign1\\Controllers\\part5Controller.cs",
+              "RelativeToolTip": "Controllers\\part5Controller.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:28:51.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "part4Controller.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\assign1\\Controllers\\part4Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\part4Controller.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\assign1\\Controllers\\part4Controller.cs",
+              "RelativeToolTip": "Controllers\\part4Controller.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:25:48.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "part3Controller.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\assign1\\Controllers\\part3Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\part3Controller.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\assign1\\Controllers\\part3Controller.cs",
+              "RelativeToolTip": "Controllers\\part3Controller.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:22:54.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "part2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\assign1\\Controllers\\part2Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\part2Controller.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\assign1\\Controllers\\part2Controller.cs",
+              "RelativeToolTip": "Controllers\\part2Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:18:43.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Part1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\assign1\\Controllers\\Part1Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Part1Controller.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\assign1\\Controllers\\Part1Controller.cs",
+              "RelativeToolTip": "Controllers\\Part1Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:12:50.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
